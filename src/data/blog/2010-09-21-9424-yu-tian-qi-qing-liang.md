@@ -1,0 +1,21 @@
+---
+title: "[9424]雨，天气清凉~"
+Date: 2010-09-21T19:38:00.000Z
+pubDatetime: 2010-09-21T19:38:00.000Z
+published: 2010-09-21T19:38:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2010-09-21-9424-yu-tian-qi-qing-liang"
+draft: false
+---
+2010-09-21  
+  
+\[9424\] 雨，天气清凉~  
+  
+昨天下午开始下雨，下班出地铁，广场地砖上遍布一个一个小小浅浅的水洼，清凉的风吹着，一扫早晨的闷热感。  
+  
+今天，空气清新，马路被雨水冲刷的干净整洁，雨，依然在下着~
+
+stardust@live.com

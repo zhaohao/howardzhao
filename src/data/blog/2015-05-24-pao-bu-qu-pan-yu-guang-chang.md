@@ -1,0 +1,19 @@
+---
+title: "跑步去番禺广场"
+Date: 2015-05-24T21:58:00.000Z
+pubDatetime: 2015-05-24T21:58:00.000Z
+published: 2015-05-24T21:58:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2015-05-24-pao-bu-qu-pan-yu-guang-chang"
+draft: false
+---
+Acui今天P班，心血来潮出门去广场接她顺道跑步。湿气腾腾的空气，一种压抑的感觉铺天盖地。  
+  
+更糟糕的是走到半道雨点噼里啪啦的落下来，以为很快会停下来，没想到这么一段时间过去了完全没有停的意思。  
+  
+很喜欢雨下来后的清凉，但被阻到了一个车站站牌下不得前行，坐了一会儿蚊子来凑热闹，意识到的时候已经给腿上叮了一片一片。
+
+stardust@live.com
