@@ -1,12 +1,12 @@
 export const SITE = {
-  website: "https://howardzhao.com/", // replace this with your deployed domain
-  author: "HowardZhao",
-  profile: "https://howardzhao.com/",
-  desc: "HowardZhao's Website.",
-  title: "HowardZhao",
+  website: "https://howardzhao.pages.dev/", // replace this with your deployed domain
+  author: "Howard Zhao",
+  profile: "https://zhao.im/",
+  desc: "浩若星海，缈如纤尘",
+  title: "星尘灝",
   ogImage: "stardust.jpg",
   lightAndDarkMode: true,
-  postPerIndex: 10,
+  postPerIndex: 8,
   postPerPage: 20,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
   showArchives: true,
@@ -14,7 +14,7 @@ export const SITE = {
   editPost: {
     enabled: true,
     text: "Edit page",
-    url: "https://github.com/howardzhao/",
+    url: "https://github.com/zhaohao/howardzhao/edit/main/",
   },
   dynamicOgImage: true,
   dir: "ltr", // "rtl" | "auto"
