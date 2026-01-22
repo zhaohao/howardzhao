@@ -61,7 +61,7 @@ export default defineConfig({
     preserveScriptOrder: true,
     fonts: [
       {
-        name: "LXGW WenKai Mono TC",
+        name: "Outfit",
         cssVariable: "--font-google-sans-code",
         provider: fontProviders.google(),
         fallbacks: ["monospace"],

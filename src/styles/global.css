@@ -1,7 +1,9 @@
 @import "tailwindcss";
 @import "./typography.css";
-
+@import "/src/assets/fonts/fonts.css";
 @custom-variant dark (&:where([data-theme=dark], [data-theme=dark] *));
+
+body {font-family:Hack,Cuprum,"Century Gothic","LXGW WenKai Screen",sans-serif;}
 
 :root,
 html[data-theme="light"] {
