@@ -1,0 +1,48 @@
+---
+const TWIKOO_ENV_ID = "https://twikoo.zme.life/"; 
+---
+
+<div id="tcomment"></div>
+
+<script define:vars={{ TWIKOO_ENV_ID }}>
+  function loadTwikoo() {
+    const script = document.createElement('script');
+    script.src = 'https://cdn.jsdelivr.net/npm/twikoo@1.6.44/dist/twikoo.all.min.js';
+    script.async = true;
+    script.onload = () => {
+      // @ts-ignore
+      twikoo.init({
+        envId: TWIKOO_ENV_ID,
+        el: '#tcomment',
+      });
+    };
+    document.body.appendChild(script);
+  }
+
+  loadTwikoo();
+
+  document.addEventListener('astro:page-load', () => {
+    const container = document.getElementById('tcomment');
+    if (container) {
+        // @ts-ignore
+        if (typeof twikoo !== 'undefined') {
+            // @ts-ignore
+            twikoo.init({
+                envId: TWIKOO_ENV_ID,
+                el: '#tcomment',
+            });
+        } else {
+            loadTwikoo();
+        }
+    }
+  });
+</script>
+
+<style>
+  #tcomment {
+    margin: 4rem auto 2rem;
+    max-width: var(--content-width); /* 适配 Fuwari 内容宽度 */
+    padding-top: 2rem;
+    border-top: 1px dashed var(--line-color, #e5e7eb);
+  }
+</style>
