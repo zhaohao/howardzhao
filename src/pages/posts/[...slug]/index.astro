@@ -3,7 +3,6 @@ import { type CollectionEntry, getCollection } from "astro:content";
 import PostDetails from "@/layouts/PostDetails.astro";
 import getSortedPosts from "@/utils/getSortedPosts";
 import { getPath } from "@/utils/getPath";
-import Twikoo from "@/components/Twikoo.astro";
 
 type Props = {
   post: CollectionEntry<"blog">;
@@ -26,6 +25,3 @@ const sortedPosts = getSortedPosts(posts);
 ---
 
 <PostDetails post={post} posts={sortedPosts} />
-    <div class="mx-auto max-w-[var(--content-width)]">
-        <Twikoo />
-    </div>
