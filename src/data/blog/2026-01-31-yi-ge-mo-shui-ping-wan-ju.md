@@ -1,8 +1,8 @@
 ---
 title: "一个墨水屏玩具"
-Date: 2026-01-31T20:30:31.000Z
-pubDatetime: 2026-01-31T20:30:31.000Z
-published: 2026-01-31T20:30:31.000Z
+Date: 2026-01-31T12:30:31.000Z
+pubDatetime: 2026-01-31T12:30:31.000Z
+published: 2026-01-31T12:30:31.000Z
 description: "双色红黑墨水屏的小日历，也可以显示图片，特别的风格。"
 image: "/images/2026/2026-01-31-202128559.jpg"
 author: "stardust"
