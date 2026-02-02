@@ -70,7 +70,7 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
             { "border-b border-border": recentPosts.length > 0 },
           ]}
         >
-          <h2 class="text-2xl font-semibold tracking-wide">Featured</h2>
+          <h2 class="text-2xl font-semibold tracking-wide" style="background: #008899; color: #eee; width: fit-content; padding: 4px; border-radius: 8px;">Pinned</h2>
           <ul>
             {featuredPosts.map(data => (
               <Card variant="h3" {...data} />
