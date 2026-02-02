@@ -7,7 +7,7 @@ body {font-family:Hack,Cuprum,"Century Gothic","LXGW WenKai Screen",sans-serif;}
 
 :root,
 html[data-theme="light"] {
-  --background: #eaeded;
+  --background: #fff;
   --foreground: #282728;
   --accent: #008090;
   --muted: #e6e6e6;
