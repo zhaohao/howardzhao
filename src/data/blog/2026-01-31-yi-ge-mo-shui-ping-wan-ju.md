@@ -9,6 +9,7 @@ author: "stardust"
 tags: ["Pictures","xiaoxi","running"]
 category: "Default"
 slug: "2026-01-31-yi-ge-mo-shui-ping-wan-ju"
+featured: true 
 draft: false
 ---
 :::tip
