@@ -18,7 +18,7 @@ draft: false
   
 2010-09-18 主子，奴才和狗 作者：韩寒  
   
-2010-09-15 \[9418\]气氛死气沉沉，毫无活力，自己不够拼搏，不够坚持，不够决断~  
+2010-09-15 [9418]气氛死气沉沉，毫无活力，自己不够拼搏，不够坚持，不够决断~  
   
 2010-09-14 04:21:30 zhaohao: Your Google Apps account now works more like a full Google Account～  
   

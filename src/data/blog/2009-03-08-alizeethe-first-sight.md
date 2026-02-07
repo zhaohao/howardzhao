@@ -10,6 +10,6 @@ category: "Default"
 slug: "2009-03-08-alizeethe-first-sight"
 draft: false
 ---
-Alizee—Moi Lolita \[Live\] In Amsterdam  
+Alizee—Moi Lolita [Live] In Amsterdam  
 
 stardust@live.com

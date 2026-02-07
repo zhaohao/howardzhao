@@ -27,7 +27,7 @@ Refresh this page to check the status.
 真要等的时间是上限呀。
 
   
-\--  
+--  
 由 hao 于 3/03/2007 12:07:00 上午 在 [bluestardust](http://haov.blogspot.com/2007/03/office-live.html) 上发表
 
 stardust@live.com

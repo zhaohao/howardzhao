@@ -39,7 +39,7 @@ A world without Introverts would be a world with few scientists, musicians, arti
 “You cannot escape us, and to change us would lead to your demise.” <– I made that up. I’m a screenwriter.  
 It can be terribly destructive for an Introvert to deny themselves in order to get along in an Extrovert-Dominant World. Like other minorities, Introverts can end up hating themselves and others because of the differences. If you think you are an Introvert, I recommend you research the topic and seek out other Introverts to compare notes. The burden is not entirely on Introverts to try and become “normal.” Extroverts need to recognize and respect us, and we also need to respect ourselves.  
 Let me know your thoughts.  
-\-Carl.  
+-Carl.  
 [http://www.carlkingcreative.com/10-myths-about-introverts](http://www.carlkingcreative.com/10-myths-about-introverts)  
   
 

@@ -43,7 +43,7 @@ _posted by hao @ 8:45 PM_ 0 comments
   
 
   
-\--  
+--  
 由 hao 于 3/01/2007 08:52:00 下午 在 [bluestardust](http://haov.blogspot.com/2007/03/blogger.html) 上发表
 
 stardust@live.com

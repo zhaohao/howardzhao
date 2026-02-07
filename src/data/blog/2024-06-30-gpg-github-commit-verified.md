@@ -22,7 +22,7 @@ draft: false
   email = hao@zlog.net  #邮箱
   signingkey = 312628B6DCFCD4EE  #GPG密钥ID
 [gpg]
-  program = C:\\Program Files (x86)\\GnuPG\\bin\\gpg.exe  #GPG程序路径,需要双反斜杠
+  program = C:\Program Files (x86)\GnuPG\bin\gpg.exe  #GPG程序路径,需要双反斜杠
 [commit]
   gpgsign = true  #对Commit启用GPG签名
 ```

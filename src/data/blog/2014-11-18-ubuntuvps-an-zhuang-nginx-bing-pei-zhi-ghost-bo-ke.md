@@ -26,12 +26,12 @@ $ sudo apt-get install nginx
 
 server {  
     listen 80;  
-    server\_name example.com;  
+    server_name example.com;  
   
     location / {  
-        proxy\_set\_header   X-Real-IP $remote\_addr;  
-        proxy\_set\_header   Host      $http\_host;  
-        proxy\_pass         http://127.0.0.1:2368;  
+        proxy_set_header   X-Real-IP $remote_addr;  
+        proxy_set_header   Host      $http_host;  
+        proxy_pass         http://127.0.0.1:2368;  
     }  
 }      
 

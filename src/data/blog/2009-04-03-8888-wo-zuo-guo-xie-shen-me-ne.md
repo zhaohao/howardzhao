@@ -10,7 +10,7 @@ category: "Default"
 slug: "2009-04-03-8888-wo-zuo-guo-xie-shen-me-ne"
 draft: false
 ---
-\[8888\]我做过些什么呢？  
+[8888]我做过些什么呢？  
   
 Posted on 2009-04-03 00:00
 

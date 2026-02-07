@@ -10,7 +10,7 @@ category: "Default"
 slug: "2009-05-05-8920-wu-yue-wu-ri-li-xia-summerbegins"
 draft: false
 ---
-\[8920\]五月五日，立夏Summer begins  
+[8920]五月五日，立夏Summer begins  
 ![Nokia_5700_0056-708787](/images/2009/2009-05-06-d25fb535.png)  
 空气中有灰蒙蒙的感觉，不似昨天一般清澈。  
 昨天晚上心里很闷，没想到几支烟就能把手指熏黄……  

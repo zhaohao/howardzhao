@@ -16,12 +16,12 @@ draft: false
   
 2010-10-31 周末，昨天晚上完全睡乱套了，很早睡着，三点多起来，五点多又睡~  
   
-2010-10-30 iPhone 4 user agent Mozilla/5.0 (iPhone; U; CPU iPhone OS 4\_0 like Mac OS X; en-us) AppleWebKit/532.9 (KHTML, like Gecko) Version/4.0.5 Mobile/8A293 Safari/6531.22.7  
+2010-10-30 iPhone 4 user agent Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_0 like Mac OS X; en-us) AppleWebKit/532.9 (KHTML, like Gecko) Version/4.0.5 Mobile/8A293 Safari/6531.22.7  
   
 2010-10-23 Windows 7 Mklink  
 C:UsersAcui>mklink  
 创建符号链接。  
-MKLINK \[\[/D\] | \[/H\] | \[/J\]\] Link Target  
+MKLINK [[/D] | [/H] | [/J]] Link Target  
 /D 创建目录符号链接。默认为文件符号链接。  
 /H 创建硬链接，而不是符号链接。  
 /J 创建目录联接。  
@@ -76,6 +76,6 @@ C:UsersAcui>mklink /d C:UsersAcuiAppDataLocalgoogle E:FileTreeAppDatalocalGoogle
   
 2010-10-10 20101010纪念  
   
-2010-10-04 \[9437\]月四日，天气清凉，有了秋天的感觉~ 昨晚凉风开始起来，一阵阵的掀开窗帘扫进屋子，有了秋天的感觉。到了挺晚睡觉，不知前面做了什么。睡觉很不他是，头痛发懵，迷迷糊糊的到了早晨的闹钟响起~
+2010-10-04 [9437]月四日，天气清凉，有了秋天的感觉~ 昨晚凉风开始起来，一阵阵的掀开窗帘扫进屋子，有了秋天的感觉。到了挺晚睡觉，不知前面做了什么。睡觉很不他是，头痛发懵，迷迷糊糊的到了早晨的闹钟响起~
 
 stardust@live.com

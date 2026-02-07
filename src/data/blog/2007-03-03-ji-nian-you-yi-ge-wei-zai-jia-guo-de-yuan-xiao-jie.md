@@ -91,7 +91,7 @@ draft: false
   
 
   
-\--  
+--  
 由 hao 于 3/04/2007 01:00:00 上午 在 [bluestardust](http://haov.blogspot.com/2007/03/blog-post.html) 上发表  
   
 

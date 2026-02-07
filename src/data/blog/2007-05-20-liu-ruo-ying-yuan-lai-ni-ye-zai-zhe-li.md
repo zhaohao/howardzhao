@@ -12,6 +12,6 @@ draft: false
 ---
 在曾经那段在图书馆的日子里，经常听的的一首歌。  
   
-\[embed\]/wp-content/uploads/zhaohao/YouAreHere.mp3\[/embed\]
+[embed]/wp-content/uploads/zhaohao/YouAreHere.mp3[/embed]
 
 stardust@live.com

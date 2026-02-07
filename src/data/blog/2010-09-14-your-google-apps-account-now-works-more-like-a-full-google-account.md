@@ -34,7 +34,7 @@ Sincerely,
 
 The Google Apps Team
 
-\-------------  
+-------------  
 You have received this mandatory email service announcement to update you about important changes to your Google Apps account.
 
 Please don't reply to this email, as we won't be able to review your response. If your question wasn't answered, please feel free to visit our [Help Center](http://www.google.com/support/accounts/go/fullaccounts).

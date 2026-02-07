@@ -10,8 +10,8 @@ category: "Default"
 slug: "2011-07-28-fwd-an-invitation-to-ifttt"
 draft: false
 ---
-\---------- Forwarded message ----------  
-From: ifttt <[invitation@ifttt.com](mailto:invitation@ifttt.com)\>  
+---------- Forwarded message ----------  
+From: ifttt <[invitation@ifttt.com](mailto:invitation@ifttt.com)>  
 Date: Thu, Jul 28, 2011 at 02:16  
 Subject: An invitation to ifttt  
   
