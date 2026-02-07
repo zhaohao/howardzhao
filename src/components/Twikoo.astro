@@ -1,10 +1,6 @@
----
-const TWIKOO_ENV_ID = "https://twikoo.zme.life/"; 
----
-
 <div id="tcomment"></div>
 
-<script define:vars={{ TWIKOO_ENV_ID }} is:inline>
+<script>
   function loadTwikoo() {
     const script = document.createElement('script');
     script.src = 'https://cdn.jsdelivr.net/npm/twikoo@1.6.44/dist/twikoo.all.min.js';
@@ -12,8 +8,8 @@ const TWIKOO_ENV_ID = "https://twikoo.zme.life/";
     script.onload = () => {
       // @ts-ignore
       twikoo.init({
-        envId: TWIKOO_ENV_ID,
-        el: '#tcomment',
+        envId: "https://twikoo.zme.life/",
+        el: "#tcomment",
       });
     };
     document.body.appendChild(script);
@@ -28,8 +24,8 @@ const TWIKOO_ENV_ID = "https://twikoo.zme.life/";
         if (typeof twikoo !== 'undefined') {
             // @ts-ignore
             twikoo.init({
-                envId: TWIKOO_ENV_ID,
-                el: '#tcomment',
+                envId: "https://twikoo.zme.life/",
+                el: "#tcomment",
             });
         } else {
             loadTwikoo();
