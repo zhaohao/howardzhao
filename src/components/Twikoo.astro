@@ -13,7 +13,8 @@ const TWIKOO_ENV_ID = "https://twikoo.zme.life/";
       if (window.twikoo) return resolve(window.twikoo);
 
       const script = document.createElement('script');
-      script.src = 'https://cdn.jsdelivr.net/npm/twikoo@1.6.44/dist/twikoo.all.min.js';
+      // script.src = 'https://cdn.jsdelivr.net/npm/twikoo@1.6.44/dist/twikoo.all.min.js';
+      script.src = '/assets/twikoo.all.min.js';
       script.async = true;
       script.onload = () => resolve(window.twikoo);
       document.head.appendChild(script);
