@@ -10,7 +10,7 @@ category: "Default"
 slug: "2014-07-27-ye-kong-zhong-zui-liang-de-xing"
 draft: false
 ---
-\[audio mp3="/wp-content/uploads/ykzzldx.mp3"\]\[/audio\]  
+[audio mp3="/wp-content/uploads/ykzzldx.mp3"][/audio]  
 夜空中最亮的星 能否听清  
 那仰望的人心底的孤独和叹息  
 夜空中最亮的星 能否记起  
@@ -32,7 +32,7 @@ draft: false
 夜空中最亮的星 能否听清  
 那仰望的人心底的孤独和叹息  
   
-\[audio mp3="/wp-content/uploads/star.mp3"\]\[/audio\]  
+[audio mp3="/wp-content/uploads/star.mp3"][/audio]  
   
 ![shinning-star](/images/2014/2014-07-28-7357452a.jpg)
 

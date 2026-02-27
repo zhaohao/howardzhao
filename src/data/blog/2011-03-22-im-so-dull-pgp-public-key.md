@@ -14,7 +14,7 @@ draft: false
   
 
   
-\-----BEGIN PGP PUBLIC KEY BLOCK-----  
+-----BEGIN PGP PUBLIC KEY BLOCK-----  
 Version: PGP Desktop 9.9.0 (Build 397)  
   
 mQGiBE2IS+ARBADF0qYKJJsMJSB3MWiEBY6Zpfp0KOLd9QkZRR/zIC11MpDzuFn/  
@@ -43,8 +43,8 @@ S2EFKHzn/GE6h5gXsgrTrhey+rNqTGrcau3/m24PJX9kVTGKx1y0iQnYSXWMvXRy
 UHdzE7/AdyszsrwMSwgymCe0IConUTyJAEwEGBECAAwFAk2IS+EFGwwAAAAACgkQ  
 MSYottz81O62JwCeNYAcUUb8UP2uj5X9ITHBGdxbeBAAoJEllrfze61X8BSw869s  
 lQbb2SqV  
-\=u5wM  
-\-----END PGP PUBLIC KEY BLOCK-----  
+=u5wM  
+-----END PGP PUBLIC KEY BLOCK-----  
 
   
   

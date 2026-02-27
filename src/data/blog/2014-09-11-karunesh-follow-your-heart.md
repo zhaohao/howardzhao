@@ -10,7 +10,7 @@ category: "Default"
 slug: "2014-09-11-karunesh-follow-your-heart"
 draft: false
 ---
-\[audio mp3="/wp-content/uploads/karunesh\_follow\_your\_heart.mp3"\]\[/audio\]  
+[audio mp3="/wp-content/uploads/karunesh_follow_your_heart.mp3"][/audio]  
    
 ▲ karunesh Follow Your Heart
 

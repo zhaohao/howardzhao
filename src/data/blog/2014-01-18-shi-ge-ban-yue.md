@@ -10,7 +10,7 @@ category: "Default"
 slug: "2014-01-18-shi-ge-ban-yue"
 draft: false
 ---
-\[gallery\]  
+[gallery]  
 Zoe 2014-01-05 十个半月
 
 stardust@live.com

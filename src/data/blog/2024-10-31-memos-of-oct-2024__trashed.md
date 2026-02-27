@@ -67,7 +67,7 @@ Tuesday, October 29, 2024
 📅 2024/10/24 13:59 // Linus 正在亲手给 Linux 敲丧钟，正在亲手给开源精神敲丧钟。 [MAINTAINERS: Remove some entries due to various compliance requirements.](https://lore.kernel.org/all/CAHk-=whNGNVnYHHSXUAsWds_MoZ-iEgRMQMxZZ0z-jY4uHT+Gg@mail.gmail.com/) Thursday, October 24, 2024
 
 📅 2024/10/23 13:38 万里之外的一个涟漪。  
-Oct 22, 2024 USCA\_4 datacenter outage (Multacom) Resolved - The datacenter lost both A+B power feeds, which caused a complete blackout. The power has been restored, and we're bringing up all our equipment at the moment. Services should be fully restored within 20 minutes. Oct 22, 22:25 PDT Investigating - We are currently investing an outage affecting customers in Multacom datacenter (USCA\_4) Oct 22, 21:48 PDT
+Oct 22, 2024 USCA_4 datacenter outage (Multacom) Resolved - The datacenter lost both A+B power feeds, which caused a complete blackout. The power has been restored, and we're bringing up all our equipment at the moment. Services should be fully restored within 20 minutes. Oct 22, 22:25 PDT Investigating - We are currently investing an outage affecting customers in Multacom datacenter (USCA_4) Oct 22, 21:48 PDT
 
 Wednesday, October 23, 2024
 
@@ -194,7 +194,7 @@ Access to fetch at 'https://memos.zlog.net/u/zhao/rss.xml' from origin 'https://
 
 在源站自己使用的是Caddy服务，配置中设置头信息实现跨域【解决方案[来源](https://www.flysnow.org/)】。在memos服务的反代中设置头信息，测试结果OK。
 
-```caddyfile
+```txt
  memos.zlog.net memo.zlog.net {
 
     reverse_proxy localhost:5230 {  
@@ -244,7 +244,7 @@ Thursday, October 10, 2024
 Thursday, October 10, 2024
 
 📅 2024/10/09 23:09 很早前就看过了CMlink英国卡的信息,九月份时候看到有365日18英镑12G流量加200分钟通话的漫游套餐,再看发现居然可以邮寄到国内,就激情下单了.下单选择了预激活.然后很快两三天就收到了卡片.结果后面在提示信息里写的是此种方式首次使用不能为中国大陆和香港地区,前面知道国内没法激活,没想到按这个信息所说在香港也无法正式激活,那这就有点麻烦了,弄不好18￡就买个sim卡看看了.  
-不知道是不是网上订卡时选择预激活才会这样还是所有状况都如此,所以赶快按提示中的链接把预激活日期改到了十月份.本来想着最近几天去香港一下试一下能不能激活,突然想到深圳福田或者罗湖口岸一河之隔应该有很多地方能够接收到香港的运营商信号,于是网上搜了搜发现[https://www.nperf.com/zh\_CN/map/HK/-/-/signal](https://www.nperf.com/zh_CN/map/HK/-/-/signal)可以查看具体的信号覆盖范围.原来在深圳湾口岸和整个深圳湾公路大桥都有香港基站覆盖,这地方离家只有四五公里实在太近了,马上去试一下.顺便再走一下海边绿道. 到了深圳湾附近,在android机上手动选择运营商,试了几次列表中都没有显示香港的运营商,拿苹果手机手动选择列表里就有CSL\\3\\CMHK之类的,就奇怪.于是把手机卡换到苹果上,先是手动选择了CSL,连上一会收到了欢迎来到Hongkong的信息,但数据流量还是不可用,不知是不是时间还不够,又试着选了CMHK运营商之类的切换了几次,偶尔显示数据E图标又消失,但基本还是不能使用网络.正在怀疑无法激活的时候,短信和邮件都收到了激活成功的消息.这样看来终于确定是可以激活的了. 换回android,看到卡片默认名字是EE,切换回自动选择运营商,连上了中国移动-cmlink,也可以正常使用漫游流量了. 这样一来,18￡应该就不算打水漂了.
+不知道是不是网上订卡时选择预激活才会这样还是所有状况都如此,所以赶快按提示中的链接把预激活日期改到了十月份.本来想着最近几天去香港一下试一下能不能激活,突然想到深圳福田或者罗湖口岸一河之隔应该有很多地方能够接收到香港的运营商信号,于是网上搜了搜发现[https://www.nperf.com/zh_CN/map/HK/-/-/signal](https://www.nperf.com/zh_CN/map/HK/-/-/signal)可以查看具体的信号覆盖范围.原来在深圳湾口岸和整个深圳湾公路大桥都有香港基站覆盖,这地方离家只有四五公里实在太近了,马上去试一下.顺便再走一下海边绿道. 到了深圳湾附近,在android机上手动选择运营商,试了几次列表中都没有显示香港的运营商,拿苹果手机手动选择列表里就有CSL\3\CMHK之类的,就奇怪.于是把手机卡换到苹果上,先是手动选择了CSL,连上一会收到了欢迎来到Hongkong的信息,但数据流量还是不可用,不知是不是时间还不够,又试着选了CMHK运营商之类的切换了几次,偶尔显示数据E图标又消失,但基本还是不能使用网络.正在怀疑无法激活的时候,短信和邮件都收到了激活成功的消息.这样看来终于确定是可以激活的了. 换回android,看到卡片默认名字是EE,切换回自动选择运营商,连上了中国移动-cmlink,也可以正常使用漫游流量了. 这样一来,18￡应该就不算打水漂了.
 
 Wednesday, October 9, 2024
 
@@ -256,7 +256,7 @@ Wednesday, October 9, 2024
 
 Wednesday, October 9, 2024
 
-📅 2024/10/08 16:19 \[Activation Successful\] Welcome to CMLink. Your UK mobile number ||079XXXXXXXX|| is activated. Check balance, top-up, subscribe a plan through cmlink.com/uk/login or our WeChat 'CMLink\_UK'. Text 'CHECK' to 10086 to get your current usage. \[Plan Activated\] Your ￡18 One-off Annual Bundle is now effective. Check balance & top-up through cmlink.com/uk/login or our WeChat 'CMLink\_UK'. Text 'CHECK' to 10086 to get your current usage. CMLink
+📅 2024/10/08 16:19 [Activation Successful] Welcome to CMLink. Your UK mobile number ||079XXXXXXXX|| is activated. Check balance, top-up, subscribe a plan through cmlink.com/uk/login or our WeChat 'CMLink_UK'. Text 'CHECK' to 10086 to get your current usage. [Plan Activated] Your ￡18 One-off Annual Bundle is now effective. Check balance & top-up through cmlink.com/uk/login or our WeChat 'CMLink_UK'. Text 'CHECK' to 10086 to get your current usage. CMLink
 
 Tuesday, October 8, 2024
 
@@ -344,7 +344,7 @@ graph TD;
 
 Wednesday, October 2, 2024
 
-📅 2024/10/01 14:58 又带着她到楼下走走跑跑 2km，终于基本文静了(ง•̀\_•́)ง
+📅 2024/10/01 14:58 又带着她到楼下走走跑跑 2km，终于基本文静了(ง•̀_•́)ง
 
 Tuesday, October 1, 2024
 

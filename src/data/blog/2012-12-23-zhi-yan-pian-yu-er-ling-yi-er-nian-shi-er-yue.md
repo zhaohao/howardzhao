@@ -11,7 +11,7 @@ slug: "2012-12-23-zhi-yan-pian-yu-er-ling-yi-er-nian-shi-er-yue"
 draft: false
 ---
 2012-12-23 雅虎送了Flickr Pro三个月免费试用  
-多謝你接受我們送給你的Flickr節日禮物。為與你一同慶祝這個節日,請享受這三個月的無限\*儲存。快快去拍照和上載到Flickr – 無錯,是沒有載上限。On 2013年3月23日, your account will revert to a standard free Flickr account. Don’t worry — we’ll send you a reminder.  
+多謝你接受我們送給你的Flickr節日禮物。為與你一同慶祝這個節日,請享受這三個月的無限*儲存。快快去拍照和上載到Flickr – 無錯,是沒有載上限。On 2013年3月23日, your account will revert to a standard free Flickr account. Don’t worry — we’ll send you a reminder.  
   
 2012-12-17 好孕的健康分享 孕33周  
 胎宝宝大约已有2000克了，身长约为45厘米。呼吸系统、消化系统、生殖器官的发育已近成熟。头部已开始降入骨盆。孕妈妈这时体重大约以每周500克的速度增长。  
@@ -32,7 +32,7 @@ FW: Google Apps Customer Notice
 Date: Sat, 8 Dec 2012 01:51:41 +0000  
 Subject: Google Apps customer notice  
 From: apps-noreply@google.com  
-To: \*\*\*\*\*\*\*\*\*\*  
+To: **********  
   
 Hello from Google,  
   
@@ -54,7 +54,7 @@ Director, Google Apps
   
 2012-12-03 二零一二年十二月三日  
 2012-1984+1=29  
-\[2012.12.03\]-\[1984.12.03\]+1=10228  
+[2012.12.03]-[1984.12.03]+1=10228  
 又到了这一个日期，过了今天又将翻过了人生的一页……
 
 stardust@live.com

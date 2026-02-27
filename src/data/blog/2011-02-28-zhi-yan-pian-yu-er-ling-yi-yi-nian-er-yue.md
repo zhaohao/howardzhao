@@ -12,9 +12,9 @@ draft: false
 ---
 2011-02-28 在HX最后一个工作日 从此同人生第一份工作说byebye,看未来~~~  
   
-2011-02-27 Rosetta Stone V3.4.5 with ja\_JP Level 1\_2\_3  
+2011-02-27 Rosetta Stone V3.4.5 with ja_JP Level 1_2_3  
   
-2011-02-26 21:01:38 云端解压位置:F:Cloud 软件解压位置:F:CloudCache Rosetta Stone V3.4.5 with ja\_JP Level 1\_2\_3  
+2011-02-26 21:01:38 云端解压位置:F:Cloud 软件解压位置:F:CloudCache Rosetta Stone V3.4.5 with ja_JP Level 1_2_3  
   
 2011-02-20 13:10:52 zhaohao: 今天踩单车绕了一个大大的圈，10km~~  
   

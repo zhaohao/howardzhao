@@ -12,7 +12,7 @@ draft: false
 ---
 C:UsersAcui>mklink  
 创建符号链接。  
-MKLINK \[\[/D\] | \[/H\] | \[/J\]\] Link Target  
+MKLINK [[/D] | [/H] | [/J]] Link Target  
 /D 创建目录符号链接。默认为文件符号链接。  
 /H 创建硬链接，而不是符号链接。  
 /J 创建目录联接。  

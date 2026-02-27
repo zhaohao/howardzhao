@@ -30,6 +30,6 @@ I'm still there everywhere,I'm the dust in the wind,I'm the star in the northern
   
 Would you wait for me forever?Will you wait for me forever?  
   
-\-- Sent from my mobile device
+-- Sent from my mobile device
 
 stardust@live.com

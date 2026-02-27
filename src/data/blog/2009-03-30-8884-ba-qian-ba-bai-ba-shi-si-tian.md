@@ -10,7 +10,7 @@ category: "Default"
 slug: "2009-03-30-8884-ba-qian-ba-bai-ba-shi-si-tian"
 draft: false
 ---
-\[8884\]八千八百八十四天……  
+[8884]八千八百八十四天……  
   
 Posted on 2009-03-30 23:55
 

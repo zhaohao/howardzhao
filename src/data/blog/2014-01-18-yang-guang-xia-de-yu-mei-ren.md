@@ -10,7 +10,7 @@ category: "Default"
 slug: "2014-01-18-yang-guang-xia-de-yu-mei-ren"
 draft: false
 ---
-\[gallery\]  
+[gallery]  
 2014-01-18
 
 stardust@live.com

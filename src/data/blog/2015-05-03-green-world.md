@@ -14,6 +14,6 @@ draft: false
 
   
   
-\[caption id="attachment\_255" align="alignnone" width="1024"\]![Green](/images/2015/2015-05-04-2a23bdbf.jpg) Green\[/caption\]
+[caption id="attachment_255" align="alignnone" width="1024"]![Green](/images/2015/2015-05-04-2a23bdbf.jpg) Green[/caption]
 
 stardust@live.com

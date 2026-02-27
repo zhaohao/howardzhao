@@ -112,3 +112,4 @@ window
     window.theme?.setTheme(themeValue);
     setPreference();
   });
+export {};

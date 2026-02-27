@@ -7,9 +7,9 @@ body {font-family:Hack,Cuprum,"Century Gothic","LXGW WenKai Screen",sans-serif;}
 
 :root,
 html[data-theme="light"] {
-  --background: #fdfdfd;
+  --background: #fff;
   --foreground: #282728;
-  --accent: #006cac;
+  --accent: #008090;
   --muted: #e6e6e6;
   --border: #ece9e9;
 }
@@ -17,9 +17,9 @@ html[data-theme="light"] {
 html[data-theme="dark"] {
   --background: #212737;
   --foreground: #eaedf3;
-  --accent: #ff6b01;
+  --accent: #81c5d2;
   --muted: #343f60;
-  --border: #ab4b08;
+  --border: #045483;
 }
 
 @theme inline {

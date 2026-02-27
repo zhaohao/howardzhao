@@ -26,27 +26,27 @@ The plain HTTP request was sent to HTTPS port
   
 ......前面省略  
 server {  
-#listen 80 default\_server;  
-#listen \[::\]:80 default\_server ipv6only=on;  
+#listen 80 default_server;  
+#listen [::]:80 default_server ipv6only=on;  
 listen 443;  
 root /xxx;  
 index index.php index.html index.htm;  
-server\_name zhao.im/;  
+server_name zhao.im/;  
 ssl on;  
-ssl\_certificate    /xxx/xxx.crt;  
-ssl\_certificate\_key     /xxx/xxx.key;  
-ssl\_session\_timeout 5m;  
-ssl\_protocols SSLv3 TLSv1 TLSv1.1 TLSv1.2;  
-ssl\_ciphers "HIGH:!aNULL:!MD5 or HIGH:!aNULL:!MD5:!3DES";  
-ssl\_prefer\_server\_ciphers on;  
-error\_page 497 "https://$host$uri?$args";  
+ssl_certificate    /xxx/xxx.crt;  
+ssl_certificate_key     /xxx/xxx.key;  
+ssl_session_timeout 5m;  
+ssl_protocols SSLv3 TLSv1 TLSv1.1 TLSv1.2;  
+ssl_ciphers "HIGH:!aNULL:!MD5 or HIGH:!aNULL:!MD5:!3DES";  
+ssl_prefer_server_ciphers on;  
+error_page 497 "https://$host$uri?$args";  
 ......后面省略  
 }  
 #------------------------------  
 server {  
 listen 80;  
-server\_name zhao.im/;  
-rewrite ^/(.\*) https://$server\_name$1 permanent;  
+server_name zhao.im/;  
+rewrite ^/(.*) https://$server_name$1 permanent;  
 }  
 
 stardust@live.com

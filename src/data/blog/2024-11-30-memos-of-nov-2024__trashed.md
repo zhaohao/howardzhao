@@ -73,7 +73,7 @@ Sunday, November 17, 2024
 
 Monday, November 11, 2024
 
-📅 2024/11/11 10:22 测试了最新版Memos 0.23.0，通过【http://memos-server-url/api/v1/memos 】可以获取memos信息列表，但是获取的json文件中【"nodes": \[\], "resources": \[\], "snippet": "" 】三个都为空，而旧版0.22.5中有对应完整信息。由于resources项的缺失，按照以往API获取的memos.josn不包含贴文对应的资源信息，这样一来，靠外部工具解析json文件去显示memos的自定义页面中，图片等资源显示功能失效了。  
+📅 2024/11/11 10:22 测试了最新版Memos 0.23.0，通过【http://memos-server-url/api/v1/memos 】可以获取memos信息列表，但是获取的json文件中【"nodes": [], "resources": [], "snippet": "" 】三个都为空，而旧版0.22.5中有对应完整信息。由于resources项的缺失，按照以往API获取的memos.josn不包含贴文对应的资源信息，这样一来，靠外部工具解析json文件去显示memos的自定义页面中，图片等资源显示功能失效了。  
 还有一项改动，就是旧版通过name项，也就是形如 【http://memos-server-url/api/v1/memos/{id}/ 】的链接（id为从1开始递增的整数），无法获取信息，而在Memos 0.23.0中，可以获取到完整的json数据，包含有前面提到的缺失的resources信息。  
 编写了一个python脚本，通过递增的id，批量的把各条memo的json数据都下载了下来，后续可以在自定义页面中展示这些贴文。
 

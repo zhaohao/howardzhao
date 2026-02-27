@@ -51,7 +51,7 @@ draft: false
   
   
 
-> http://dl.google.com/chrome/install/\[版本号后两位\]/chrome\_installer.exe
+> http://dl.google.com/chrome/install/[版本号后两位]/chrome_installer.exe
 
   
   
@@ -61,7 +61,7 @@ draft: false
   
   
 
-> http://dl.google.com/chrome/install/266.0/chrome\_installer.exe
+> http://dl.google.com/chrome/install/266.0/chrome_installer.exe
 
   
   
@@ -71,7 +71,7 @@ draft: false
   
   
 
-> http://dl.google.com/chrome/install/195.38/chrome\_installer.exe
+> http://dl.google.com/chrome/install/195.38/chrome_installer.exe
 
   
   

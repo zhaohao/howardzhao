@@ -30,7 +30,7 @@ draft: false
   
 **Update**：调整模版在文章页面显示时间，精确到分钟：`{{date format="dddd, YYYY-MM-DD, HH:MM"}}`结果本博客显示的 **分钟** 数字同实际发布时间仍旧相差几十分钟。甚是怪异。  
   
-**Update**：去掉整体\[body\]的png遮罩。  
+**Update**：去掉整体[body]的png遮罩。  
   
 @2014-10-20 16:40 CST
 

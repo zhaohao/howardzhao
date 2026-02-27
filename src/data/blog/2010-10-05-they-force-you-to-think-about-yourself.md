@@ -101,7 +101,7 @@ draft: false
 60.  Why haven’t you found a job yet?  
      
   
-62.  You don’t seem to have any experience in \_\_\_ (e.g., sales, fundraising, bookkeeping), do you?  
+62.  You don’t seem to have any experience in ___ (e.g., sales, fundraising, bookkeeping), do you?  
      
   
 64.  Why should I hire you?  

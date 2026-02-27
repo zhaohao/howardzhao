@@ -12,8 +12,8 @@ draft: false
 ---
 1 拷贝微软字体到桌面的windows7fonts文件：  
 2 sudo gnome-open /usr/share/fonts ———————打开fonts文件夹  
-3 拷贝windows7fonts到文件夹内 ———————直接拉进去就可以了 if 自动配置\_\_> ok,stop here.  
-OR\_\_\_\_\_\_\_\_\_>>  
+3 拷贝windows7fonts到文件夹内 ———————直接拉进去就可以了 if 自动配置__> ok,stop here.  
+OR_________>>  
 sudo cd /usr/share/fonts——————进入字体文件夹  
 4 sudo chmod 755 windows7fonts -R ——————权限设置  
   

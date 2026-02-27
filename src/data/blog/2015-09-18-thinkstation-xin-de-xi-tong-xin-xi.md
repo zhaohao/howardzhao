@@ -15,7 +15,7 @@ draft: false
   
 
   
-Microsoft Windows \[版本 6.3.9600\]  
+Microsoft Windows [版本 6.3.9600]  
 (c) 2013 Microsoft Corporation。保留所有权利。  
   
 C:UsersHao>systeminfo  
@@ -34,7 +34,7 @@ OS 构件类型:      Multiprocessor Free
 系统制造商:       LENOVO  
 系统型号:         0007631550  
 系统类型:         x64-based PC  
-处理器:           安装了 1 个处理器。\[01\]: Intel64 Family 6 Model 60 Stepping 3 GenuineIntel ~3193 Mhz  
+处理器:           安装了 1 个处理器。[01]: Intel64 Family 6 Model 60 Stepping 3 GenuineIntel ~3193 Mhz  
 BIOS 版本:        LENOVO FBKT73AUS, 2014-02-24  
 Windows 目录:     C:Windows  
 系统目录:         C:Windowssystem32  
