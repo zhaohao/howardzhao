@@ -3,7 +3,7 @@ export const SITE = {
   author: "Howard Zhao",
   profile: "https://zhao.im/",
   desc: "浩若星海，缈如纤尘",
-  title: "星尘灝",
+  title: "HowardZhao",
   ogImage: "stardust.jpg",
   lightAndDarkMode: true,
   postPerIndex: 8,
