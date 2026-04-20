@@ -3,7 +3,7 @@ export const SITE = {
   author: "HZ",
   profile: "https://zlog.net/",
   desc: "浩若星海，缈如纤尘",
-  title: "StarDust",
+  title: "HZ",
   ogImage: "stardust.jpg",
   lightAndDarkMode: true,
   postPerIndex: 8,
