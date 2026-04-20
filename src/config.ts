@@ -1,7 +1,7 @@
 export const SITE = {
   website: "https://howardzhao.pages.dev/", // replace this with your deployed domain
-  author: "Howard Zhao",
-  profile: "https://zhao.im/",
+  author: "HZ",
+  profile: "https://zlog.net/",
   desc: "浩若星海，缈如纤尘",
   title: "HowardZhao",
   ogImage: "stardust.jpg",
