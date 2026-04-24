@@ -4,10 +4,6 @@
 @custom-variant dark (&:where([data-theme=dark], [data-theme=dark] *));
 
 body {font-family:Hack,Cuprum,"Century Gothic","LXGW WenKai Screen",sans-serif;}
-.artalk,.atk-layer-wrap {
-    --at-color-bg: rgb(250 253 249);
-    --at-color-main: #008090;
-}
 
 :root,
 html[data-theme="light"] {
