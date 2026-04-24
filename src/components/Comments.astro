@@ -54,11 +54,6 @@
 </script>
 
 <style is:global>
-  /* 解决 Artalk 在 AstroPaper 中的样式细节问题 */
-  .artalk {
-    --at-color-font: var(--color-fill);
-    margin-bottom: 2rem;
-  }
   
   /* 确保评论框不会被主题的背景色遮挡或显得突兀 */
   .atk-main-editor, .atk-layer-wrap {
@@ -67,7 +62,9 @@
 
   /* 当 data-theme 为 light 或 dark 时，Artalk 会自动适应 */
   .artalk {
-    /* 基础文字与背景 */
+    
+    --at-color-font: var(--color-fill);
+    margin-bottom: 2rem;
 
     --at-color-bg: #e9eded;             /* 评论区底色 */
     
