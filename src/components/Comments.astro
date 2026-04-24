@@ -1,0 +1,67 @@
+---
+/* src/components/Comments.astro */
+---
+
+<div class="mt-8">
+  <div id="artalk-comments"></div>
+</div>
+
+<link href="http://artalk.howardzhao.com/dist/Artalk.css" rel="stylesheet">
+<script src="http://artalk.howardzhao.com/dist/Artalk.js"></script>
+
+<script is:inline>
+  function initArtalk() {
+    const el = document.querySelector('#artalk-comments');
+    if (!el || typeof Artalk === 'undefined') return;
+
+    // 1. 获取当前 AstroPaper 的主题状态
+    const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+
+    // 2. 实例化
+    const artalk = Artalk.init({
+      el: '#artalk-comments',
+      pageKey: window.location.pathname,
+      pageTitle: document.title,
+      server: 'https://artalk.howardzhao.com', // 替换为你的服务器地址
+      site: 'HZ',
+      darkMode: isDark,
+    });
+
+    // 3. 监听主题切换按钮 (AstroPaper 专属 ID)
+    const themeBtn = document.querySelector('#theme-btn');
+    if (themeBtn) {
+      themeBtn.addEventListener('click', () => {
+        // 给个微小的延迟，等待 AstroPaper 切换 data-theme
+        setTimeout(() => {
+          const nowDark = document.documentElement.getAttribute('data-theme') === 'dark';
+          artalk.setDarkMode(nowDark);
+        }, 50);
+      });
+    }
+
+    // 4. 将实例挂载到 window，方便调试或防止重复初始化
+    window.artalkInstance = artalk;
+  }
+
+  // 响应 Astro 视图切换
+  document.addEventListener('astro:page-load', () => {
+    // 如果已有实例，先销毁旧的
+    if (window.artalkInstance) {
+        window.artalkInstance.destroy();
+    }
+    initArtalk();
+  });
+</script>
+
+<style is:global>
+  /* 解决 Artalk 在 AstroPaper 中的样式细节问题 */
+  .artalk {
+    --at-color-font: var(--color-fill);
+    margin-bottom: 2rem;
+  }
+  
+  /* 确保评论框不会被主题的背景色遮挡或显得突兀 */
+  .atk-main-editor, .atk-layer-wrap {
+    border-radius: 8px !important;
+  }
+</style>
