@@ -1,14 +1,14 @@
 ---
 title: "关于更换光猫的一些事"
-Date: 2026-05-02T15:30:31.000Z
-pubDatetime: 2026-05-02T15:30:31.000Z
-published: 2026-05-02T15:30:31.000Z
+Date: 2026-05-01T15:30:31.000Z
+pubDatetime: 2026-05-01T15:30:31.000Z
+published: 2026-05-01T15:30:31.000Z
 description: "替换到联通宽带FTTR自带的光猫"
 image: ""
 author: "stardust"
 tags: ["Hardware","Software","Net"]
 category: "Default"
-slug: "2026-05-02-guanyu-genghuan-guangmao-de-yixieshi"
+slug: "2026-05-01-guanyu-genghuan-guangmao-de-yixieshi"
 draft: false
 ---
 
