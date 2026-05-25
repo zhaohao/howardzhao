@@ -8,7 +8,7 @@ image: ""
 author: "stardust"
 tags: ["Hardware","Software","Net"]
 category: "Default"
-slug: "2026-05-01-guanyu-genghuan-guangmao-de-yixieshi"
+slug: "2026-05-01-geng-huan-guang-mao"
 draft: false
 ---
 
